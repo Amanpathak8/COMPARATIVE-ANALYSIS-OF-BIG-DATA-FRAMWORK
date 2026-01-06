@@ -1,0 +1,11 @@
+Date,Actual,Predicted,Match
+15-12-2023,0,0,✔ Correct
+18-12-2023,1,0,❌ Incorrect
+19-12-2023,1,0,❌ Incorrect
+20-12-2023,0,0,✔ Correct
+21-12-2023,0,1,❌ Incorrect
+22-12-2023,0,1,❌ Incorrect
+26-12-2023,0,1,❌ Incorrect
+27-12-2023,1,1,✔ Correct
+28-12-2023,0,1,❌ Incorrect
+29-12-2023,0,1,❌ Incorrect
